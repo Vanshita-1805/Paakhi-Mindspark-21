@@ -140,11 +140,11 @@
 
 /** INITIATIVE-SECTION-CAROUSEL **/
 .carousel .carousel-item {
-    height:600px;
+    height:850px;
     background-color: #c7bebf;
     border:5px solid #000;
     border-radius: 50px;
-    padding:13% 2%;
+    padding:10% auto 10% 3%;
 }
 
 
